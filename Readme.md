@@ -25,15 +25,15 @@
 ### Each Class
 
 - **Each Class**: Represents a person involved in the distribution process.
-  - `name`: The name of the person.
-  - `ratio`: The proportion of the total money contributed by the person.
-  - `apples`: A vector to store the weights of apples allocated to the person.
-  - `totalWeight`: The total weight of apples allocated to the person.
+  - name: The name of the person.
+  - ratio: The proportion of the total money contributed by the person.
+  - apples: A vector to store the weights of apples allocated to the person.
+  - totalWeight: The total weight of apples allocated to the person.
 
 
 - **comparePersons**: Custom comparison function to sort the persons based on their current apple weight relative to their share.
-  - `propA` and `propB`: Calculate the proportion of total weight to their ratio.
-  - Returns `true` if `a` should come before `b`, based on the proportion and total weight.
+  - propA and propB: Calculate the proportion of total weight to their ratio.
+  - Returns true if a should come before b, based on the proportion and total weight.
 
 ### Apple Distribution Function
 
