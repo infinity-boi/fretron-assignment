@@ -8,6 +8,8 @@
 - Output :				
 <br/> Draw the path of all flights in which they had traveled.
 
+<img src="./assets/image.png"></img>
+
 ## Explanation : 
 
 

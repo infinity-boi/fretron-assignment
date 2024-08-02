@@ -1,2 +1,17 @@
+priority queue c++
+
 default priority_queue in C++
+
+In file included from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\string:48:0,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream:39,
+                 from C:\Users\Gourav Singh Chauhan\AppData\Roaming\Sublime Text\Packages\User\file.cpp:1:
+c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\stl_function.h:376:20: note:   'const Each' is not derived from 'const std::multimap<_Key, _Tp, _Compare, _Alloc>'
+       { return __x > __y; }
+                ~~~~^~~~~
+
 which file format is used for logs
+
