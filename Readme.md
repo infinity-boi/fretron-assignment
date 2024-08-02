@@ -1,4 +1,5 @@
-# First Question : Given 3 different set of coordinates of airports for ‘N’ different flights started from same point of time and place. Draw the flight path for the individual flights such that there is no intersection of flight paths for safety and optimization.
+# First Question : No accident please
+- Given 3 different set of coordinates of airports for ‘N’ different flights started from same point of time and place. Draw the flight path for the individual flights such that there is no intersection of flight paths for safety and optimization.
 - For example:
 - Input :
 <br/> Flight 1 :  1,1  2,2  3,3 
